@@ -1,0 +1,11 @@
+{
+  "name": "윤종욱",
+  "department": "컴퓨터학과",
+  "bio": "컴퓨터학과에 재학 중인 윤종욱입니다. 2학년까지 다니고 군 복무를 마친 뒤 올해 복학했습니다. 아직 직접 완성한 프로젝트는 없지만, 앞으로 개발 프로젝트를 스스로 만들어보고 싶다는 목표를 가지고 있습니다.",
+  "interests": ["개발 프로젝트를 직접 만들어보고 싶음"],
+  "hobbies": ["배드민턴", "게임", "러닝"],
+  "links": [
+    { "label": "Email", "value": "yjw2115@naver.com", "url": "mailto:yjw2115@naver.com" },
+    { "label": "Instagram", "value": "@_w7ugi", "url": "https://instagram.com/_w7ugi" }
+  ]
+}
