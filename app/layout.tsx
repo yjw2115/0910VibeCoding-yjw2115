@@ -11,7 +11,7 @@ const blackHanSans = Black_Han_Sans({
 const notoSansKR = Noto_Sans_KR({
   variable: "--font-noto-sans-kr",
   subsets: ["latin"],
-  weight: ["400", "500", "700", "900"],
+  weight: ["300", "400", "700"],
 });
 
 export const metadata: Metadata = {
